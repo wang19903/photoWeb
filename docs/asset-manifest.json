@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photoWeb/static/css/main.0432be20.css",
+    "main.js": "/photoWeb/static/js/main.0562efa8.js",
+    "index.html": "/photoWeb/index.html",
+    "main.0432be20.css.map": "/photoWeb/static/css/main.0432be20.css.map",
+    "main.0562efa8.js.map": "/photoWeb/static/js/main.0562efa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0432be20.css",
+    "static/js/main.0562efa8.js"
+  ]
+}
