@@ -9,7 +9,7 @@ const Picture = ({ data }) => {
       </div>
       <p>
         Download Image :{" "}
-        <a href={data.src.large} target="_blank">
+        <a href={data.src.large} target="_blank" rel="noreferrer">
           Click Here
         </a>
       </p>
