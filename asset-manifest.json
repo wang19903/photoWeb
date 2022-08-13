@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wang19903/photoWeb/static/css/main.0432be20.css",
+    "main.js": "/wang19903/photoWeb/static/js/main.4dc41501.js",
+    "index.html": "/wang19903/photoWeb/index.html",
+    "main.0432be20.css.map": "/wang19903/photoWeb/static/css/main.0432be20.css.map",
+    "main.4dc41501.js.map": "/wang19903/photoWeb/static/js/main.4dc41501.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0432be20.css",
+    "static/js/main.4dc41501.js"
+  ]
+}
